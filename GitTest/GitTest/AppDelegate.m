@@ -22,6 +22,8 @@
     [self.window makeKeyAndVisible];
     
     NSLog(@"test");
+    NSLog(@"Version1.1");
+
     
     return YES;
 }
